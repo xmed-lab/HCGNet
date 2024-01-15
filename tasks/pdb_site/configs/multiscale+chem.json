@@ -1,0 +1,25 @@
+{
+    "backbone": "multiscale+chem",
+    "atom": {
+        "radius": 4.0,
+        "linear": [6, 6],
+        "sa": [6, 6],
+        "fp": [6, 6],
+        "nsample": 32
+    },
+    "surf": {
+        "radius": 4.0,
+        "nsample": 64,
+        "sampling": 0.5,
+        "head": {"atom_id": 0, "mlp": [16, 32, 32]},
+        "sa": [
+            {"atom_id": 1, "mlp": [32, 32, 32]}, 
+            {"atom_id": 2, "mlp": [32, 32, 32]}
+        ],
+        "fp": [
+            [32, 32],
+            [32, 16]
+        ]
+    },
+    "fcn": {"atom_id": 3, "mlp": [12, 8]}
+}

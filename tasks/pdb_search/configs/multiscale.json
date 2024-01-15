@@ -1,0 +1,21 @@
+{
+    "backbone": "multiscale",
+    "atom": {
+        "linear": [6, 6]
+    },
+    "surf": {
+        "radius": 4.0,
+        "nsample": 64,
+        "sampling": 0.5,
+        "head": {"atom_id": 0, "mlp": [16, 32, 32]},
+        "sa": [
+            {"mlp": [32, 32, 32]},
+            {"mlp": [32, 32, 32]}
+        ],
+        "fp": [
+            [32, 32],
+            [32, 16]
+        ]
+    },
+    "fcn": {"mlp": [32, 32]}
+}

@@ -1,0 +1,12 @@
+{
+    "backbone": "baseline",
+    "atom": {
+        "linear": [6, 6]
+    },
+    "surf": {
+        "radius": 9.0,
+        "nsample": 64,
+        "head": {"atom_id": 0, "mlp": [16, 32, 32]}
+    },
+    "fcn": {"mlp": [24, 32]}
+}
