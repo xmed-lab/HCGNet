@@ -11,6 +11,7 @@ TODO.
 python 3.6, CUDA 11.1
 
 ```shell
+pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
 pip install tqdm msgpack six tabulate termcolor pyyaml easydict
 pip install Biopython sklearn ninja==1.10.2
 pip install --upgrade https://github.com/unlimblue/KNN_CUDA/releases/download/0.2/KNN_CUDA-0.2-py3-none-any.whl
