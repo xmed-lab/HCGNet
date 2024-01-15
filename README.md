@@ -25,7 +25,7 @@ python setup.py install
 Data can be downloaded and processed following https://github.com/FreyrS/dMaSIF/blob/master/data.py. The raw data is structured as
 
 ```
-./data/
+./data/raw/
     ├── 01-benchmark_pdbs
     │   └── 1A0G_A.pdb
     ├── 01-benchmark_surfaces
