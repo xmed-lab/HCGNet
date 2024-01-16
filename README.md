@@ -38,10 +38,10 @@ Then, modify the path (`DATA_RAW`) in `./utils/config.py` to the data folder. Fo
 
 For each task (site/search), follow the scripts given in `./tasks/<pdb_task>/scripts/<train/test>.sh` to conduct training and testing.
 
-| Task       | ROC-AUC | Checkpoint                                                   |
-| ---------- | ------- | ------------------------------------------------------------ |
-| pdb_site   | 0.893   | [epoch_146.pth](https://drive.google.com/file/d/1xit-W6v78Z4S3fKksIcPIhAPaIn7eU5n/view?usp=sharing) |
-| pdb_search | 0.826   | [epoch_106.pth](https://drive.google.com/file/d/1CnK-Tdi-5rq0723py25jSpesOlRgj1NG/view?usp=sharing) |
+|    Task    | ROC-AUC |                          Checkpoint                          |
+| :--------: | :-----: | :----------------------------------------------------------: |
+|  pdb_site  |  0.893  | [epoch_146.pth](https://drive.google.com/file/d/1xit-W6v78Z4S3fKksIcPIhAPaIn7eU5n/view?usp=sharing) |
+| pdb_search |  0.826  | [epoch_106.pth](https://drive.google.com/file/d/1CnK-Tdi-5rq0723py25jSpesOlRgj1NG/view?usp=sharing) |
 
 
 ## License
