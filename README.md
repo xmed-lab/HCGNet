@@ -1,10 +1,17 @@
 # HCGNet
 
-Yiqun Lin, Liang Pan, Yi Li, Ziwei Liu, and Xiaomeng Li, "Exploiting Hierarchical Interactions for Protein Surface Learning," J-BHI 2024.
+Yiqun Lin, Liang Pan, Yi Li, Ziwei Liu, and Xiaomeng Li, "Exploiting Hierarchical Interactions for Protein Surface Learning," J-BHI 2024. [preprint](https://arxiv.org/abs/2401.10144)
 
 ## 0. Citation
 
-TODO.
+```
+@article{lin2024exploiting,
+    title={Exploiting Hierarchical Interactions for Protein Surface Learning}, 
+    author={Lin, Yiqun and Pan, Liang and Li, Yi and Liu, Ziwei and Li, Xiaomeng},
+    journal={arXiv preprint arXiv:2401.10144},
+    year={2024}
+}
+```
 
 ## 1. Installation
 
