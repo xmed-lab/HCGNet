@@ -6,10 +6,12 @@ Yiqun Lin, Liang Pan, Yi Li, Ziwei Liu, and Xiaomeng Li, "Exploiting Hierarchica
 
 ```
 @article{lin2024exploiting,
-    title={Exploiting Hierarchical Interactions for Protein Surface Learning}, 
     author={Lin, Yiqun and Pan, Liang and Li, Yi and Liu, Ziwei and Li, Xiaomeng},
-    journal={arXiv preprint arXiv:2401.10144},
-    year={2024}
+    journal={IEEE Journal of Biomedical and Health Informatics}, 
+    title={Exploiting Hierarchical Interactions for Protein Surface Learning}, 
+    year={2024},
+    pages={1-10},
+    doi={10.1109/JBHI.2024.3356231}
 }
 ```
 
