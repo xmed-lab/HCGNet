@@ -10,7 +10,6 @@ Yiqun Lin, Liang Pan, Yi Li, Ziwei Liu, and Xiaomeng Li, "Exploiting Hierarchica
     journal={IEEE Journal of Biomedical and Health Informatics}, 
     title={Exploiting Hierarchical Interactions for Protein Surface Learning}, 
     year={2024},
-    pages={1-10},
     doi={10.1109/JBHI.2024.3356231}
 }
 ```
